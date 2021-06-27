@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sollder1
+- 👀 I’m interested in JakartaEE, React
+- 🌱 I’m currently learning Websockets, Google Cloud and React
